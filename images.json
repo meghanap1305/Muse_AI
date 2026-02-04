@@ -1,0 +1,158 @@
+[
+  {
+    "file": "dataset/note/image_7.jpg",
+    "label": "Vietnamese note",
+    "backstory": "The North Vietnam government introduced dong as its currency in 1946. This replaced the French Indochinese piastre.",
+    "audio": "dataset/note/note.mp3"
+  },
+  {
+    "file": "dataset/note/image_8.jpg",
+    "label": "Vietnamese note",
+    "backstory": "The North Vietnam government introduced dong as its currency in 1946. This replaced the French Indochinese piastre.",
+    "audio": "dataset/note/note.mp3"
+  },
+  {
+    "file": "dataset/note/image_9.jpg",
+    "label": "Vietnamese note",
+    "backstory": "The North Vietnam government introduced dong as its currency in 1946. This replaced the French Indochinese piastre.",
+    "audio": "dataset/note/note.mp3"
+  },
+  {
+    "file": "dataset/note/image_10.jpg",
+    "label": "Vietnamese note",
+    "backstory": "The North Vietnam government introduced dong as its currency in 1946. This replaced the French Indochinese piastre.",
+    "audio": "dataset/note/note.mp3"
+  },
+  {
+    "file": "dataset/note/image_11.jpg",
+    "label": "Vietnamese note",
+    "backstory": "The North Vietnam government introduced dong as its currency in 1946. This replaced the French Indochinese piastre.",
+    "audio": "dataset/note/note.mp3"
+  },
+  {
+    "file": "dataset/note/image_12.jpg",
+    "label": "Vietnamese note",
+    "backstory": "The North Vietnam government introduced dong as its currency in 1946. This replaced the French Indochinese piastre.",
+    "audio": "dataset/note/note.mp3"
+  },
+  {
+    "file": "dataset/coin_10/image_1.jpg",
+    "label": "Indian 10 Rs coin",
+    "backstory": "The 10-rupee coin features a bi-metallic design with a silver center and golden ring, introduced in 2005.",
+    "audio": "dataset/coin_10/coin_10.mp3"
+  },
+  {
+    "file": "dataset/coin_10/image_2.jpg",
+    "label": "Indian 10 Rs coin",
+    "backstory": "The 10-rupee coin features a bi-metallic design with a silver center and golden ring, introduced in 2005.",
+    "audio": "dataset/coin_10/coin_10.mp3"
+  },
+  {
+    "file": "dataset/coin_10/image_3.jpg",
+    "label": "Indian 10 Rs coin",
+    "backstory": "The 10-rupee coin features a bi-metallic design with a silver center and golden ring, introduced in 2005.",
+    "audio": "dataset/coin_10/coin_10.mp3"
+  },
+  {
+    "file": "dataset/coin_10/image_4.jpg",
+    "label": "Indian 10 Rs coin",
+    "backstory": "The 10-rupee coin features a bi-metallic design with a silver center and golden ring, introduced in 2005.",
+    "audio": "dataset/coin_10/coin_10.mp3"
+  },
+  {
+    "file": "dataset/coin_10/image_5.jpg",
+    "label": "Indian 10 Rs coin",
+    "backstory": "The 10-rupee coin features a bi-metallic design with a silver center and golden ring, introduced in 2005.",
+    "audio": "dataset/coin_10/coin_10.mp3"
+  },
+  {
+    "file": "dataset/coin_10/image_6.jpg",
+    "label": "Indian 10 Rs coin",
+    "backstory": "The 10-rupee coin features a bi-metallic design with a silver center and golden ring, introduced in 2005.",
+    "audio": "dataset/coin_10/coin_10.mp3"
+  },
+  {
+    "file": "dataset/coin_10/image_7.jpg",
+    "label": "Indian 10 Rs coin",
+    "backstory": "The 10-rupee coin features a bi-metallic design with a silver center and golden ring, introduced in 2005.",
+    "audio": "dataset/coin_10/coin_10.mp3"
+  },
+  {
+    "file": "dataset/coin_10/image_8.jpg",
+    "label": "Indian 10 Rs coin",
+    "backstory": "The 10-rupee coin features a bi-metallic design with a silver center and golden ring, introduced in 2005.",
+    "audio": "dataset/coin_10/coin_10.mp3"
+  },
+  {
+    "file": "dataset/coin_10/image_9.jpg",
+    "label": "Indian 10 Rs coin",
+    "backstory": "The 10-rupee coin features a bi-metallic design with a silver center and golden ring, introduced in 2005.",
+    "audio": "dataset/coin_10/coin_10.mp3"
+  },
+  {
+    "file": "dataset/coin_10/image_10.jpg",
+    "label": "Indian 10 Rs coin",
+    "backstory": "The 10-rupee coin features a bi-metallic design with a silver center and golden ring, introduced in 2005.",
+    "audio": "dataset/coin_10/coin_10.mp3"
+  },
+  {
+    "file": "dataset/buddha/image_1.jpg",
+    "label": "Buddha Statue",
+    "backstory": "A representation of Siddhartha Gautama, the founder of Buddhism. Statues often depict him in meditation.",
+    "audio": "dataset/buddha/buddha.mp3"
+  },
+  {
+    "file": "dataset/buddha/image_2.jpg",
+    "label": "Buddha Statue",
+    "backstory": "A representation of Siddhartha Gautama, the founder of Buddhism. Statues often depict him in meditation.",
+    "audio": "dataset/buddha/buddha.mp3"
+  },
+  {
+    "file": "dataset/buddha/image_3.jpg",
+    "label": "Buddha Statue",
+    "backstory": "A representation of Siddhartha Gautama, the founder of Buddhism. Statues often depict him in meditation.",
+    "audio": "dataset/buddha/buddha.mp3"
+  },
+  {
+    "file": "dataset/buddha/image_4.jpg",
+    "label": "Buddha Statue",
+    "backstory": "A representation of Siddhartha Gautama, the founder of Buddhism. Statues often depict him in meditation.",
+    "audio": "dataset/buddha/buddha.mp3"
+  },
+  {
+    "file": "dataset/buddha/image_5.jpg",
+    "label": "Buddha Statue",
+    "backstory": "A representation of Siddhartha Gautama, the founder of Buddhism. Statues often depict him in meditation.",
+    "audio": "dataset/buddha/buddha.mp3"
+  },
+  {
+    "file": "dataset/buddha/image_6.jpg",
+    "label": "Buddha Statue",
+    "backstory": "A representation of Siddhartha Gautama, the founder of Buddhism. Statues often depict him in meditation.",
+    "audio": "dataset/buddha/buddha.mp3"
+  },
+  {
+    "file": "dataset/buddha/image_7.jpg",
+    "label": "Buddha Statue",
+    "backstory": "A representation of Siddhartha Gautama, the founder of Buddhism. Statues often depict him in meditation.",
+    "audio": "dataset/buddha/buddha.mp3"
+  },
+  {
+    "file": "dataset/buddha/image_8.jpg",
+    "label": "Buddha Statue",
+    "backstory": "A representation of Siddhartha Gautama, the founder of Buddhism. Statues often depict him in meditation.",
+    "audio": "dataset/buddha/buddha.mp3"
+  },
+  {
+    "file": "dataset/buddha/image_9.jpg",
+    "label": "Buddha Statue",
+    "backstory": "A representation of Siddhartha Gautama, the founder of Buddhism. Statues often depict him in meditation.",
+    "audio": "dataset/buddha/buddha.mp3"
+  },
+  {
+    "file": "dataset/buddha/image_10.jpg",
+    "label": "Buddha Statue",
+    "backstory": "A representation of Siddhartha Gautama, the founder of Buddhism. Statues often depict him in meditation.",
+    "audio": "dataset/buddha/buddha.mp3"
+  }
+]
