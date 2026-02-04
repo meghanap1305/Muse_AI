@@ -12,19 +12,14 @@ Audio Narrations: audio descriptions (history/backstory) is played when an obje
 
 Dual Camera Support: Works with a Laptop Webcam or a Phone Camera (via IP Webcam).
 
-🛠️ Tech Stack
+Tech Stack
 
 Language: Python 3.x
-
-Interface: Streamlit
-
+Streamlit
 Computer Vision: OpenCV (cv2)
-
-Math: NumPy 
+NumPy 
 
 Prepare Data:
-
 Place your images in the dataset/ folder.
-
 Ensure your images.json paths match the actual file locations.
 
